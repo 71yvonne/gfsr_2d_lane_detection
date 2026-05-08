@@ -6,7 +6,7 @@
 <img width="1096" height="1000" alt="D3798A85D10AD739822AC03F55DAA6F6" src="https://github.com/user-attachments/assets/b86266ba-2ffe-41b9-80e9-888accc1b835" />
 
 **On CurveLanes**
-<img width="920" height="500" alt="3CB96B049BC61534392FAC1C3D18B854" src="https://github.com/user-attachments/assets/04611fc3-d67a-4dd5-b162-1b76572f3efd" />
+<img width="880" height="450" alt="3CB96B049BC61534392FAC1C3D18B854" src="https://github.com/user-attachments/assets/04611fc3-d67a-4dd5-b162-1b76572f3efd" />
 
 
 ## demo
