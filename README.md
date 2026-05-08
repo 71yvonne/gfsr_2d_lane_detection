@@ -9,7 +9,5 @@
 
 ## Lane visualization vs. CLRerNet
 
-Qualitative lane visualization comparisons against **CLRerNet**:
-
-- [CULane](https://github.com/7iyvonne/gfsr-2d-lane-detection/blob/main/demo/fig/CULane.jpg)
-- [CurveLanes](https://github.com/7iyvonne/gfsr-2d-lane-detection/blob/main/demo/fig/CurveLanes.jpg)
+[CULane](https://github.com/7iyvonne/gfsr-2d-lane-detection/blob/main/demo/fig/CULane.jpg)
+[CurveLanes](https://github.com/7iyvonne/gfsr-2d-lane-detection/blob/main/demo/fig/CurveLanes.jpg)
