@@ -1,4 +1,5 @@
 # gfsr-2d-lane-detection
+The full runnable code for gfsr will be released publicly after the paper is accepted for publication.
 
 ## Lane visualization vs. CLRerNet
 
